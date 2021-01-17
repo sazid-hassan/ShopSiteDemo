@@ -1,0 +1,93 @@
+/*#header{
+    padding-left: 70px;
+    box-shadow: 0px 1px 0px 0px #c1bbbb;
+
+}
+
+#header ul{
+    display: inline-block;
+}
+
+#header li{
+    padding-left: 20px;
+    margin: 10px;
+    display: inline;
+}
+
+#header a {
+    text-decoration: none;
+    color: black;
+}
+
+.homeButton{
+    font-size: 24px;
+    font-weight: bold;
+    display: inline-block;
+    float: left;
+}
+
+.left-side{
+    font-size: 16px;
+    padding-top: 15px;
+    display: inline-block;
+    padding-right: 70px;
+}
+
+.right-side{
+    font-size: 16px;
+
+    float: right;
+    display: inline-block;
+}
+
+
+
+/* .caption{
+    HOME PAGE
+
+    position: absolute;
+    left: 100px;
+    right: 150px;
+     display: block;
+    font-style: normal;
+}
+
+.caption h3{
+    font-size: 50px;
+    font-weight: bold;
+    padding-right: 120px;
+}
+
+.captionImage{
+    /* emarket 1
+    width: 490px;
+    left: 550px;
+    top: 276px;
+
+
+}
+
+.caption ul{
+    display: inline-block;
+    vertical-align: bottom;
+}
+
+.captionContent{
+    /* Some text about this E market. Some New World. Bla Bla Bla.
+
+
+    width: 480px;
+    left: 100px;
+    position: center;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    line-height: 20px;
+    margin-right: 150px;
+    /* identical to box height
+
+
+
+
+}
+*/
